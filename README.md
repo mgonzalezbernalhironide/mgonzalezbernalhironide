@@ -1,8 +1,12 @@
 Hi there 👋
 🔭 I'm currently working on Interactive and Creative project related with AR, VR, Games and Creative Coder in general
+
 🌱 I’m currently learning about AI and how to implement it in projects with high interactive impact
+
 👯 I’m looking to collaborate on interactive and creative projects related with AI, Games, Metaverse, Blockchain, Augmented Reality ,VR etc
+
 About me -
+
 
 I'm a passionate Developer with more than 20 years of experience developing games for Mobile, Standalone and WebApps with the stack MERN (Mongodb, Express, React(Nextjs), Node.js) Typescript.
 
